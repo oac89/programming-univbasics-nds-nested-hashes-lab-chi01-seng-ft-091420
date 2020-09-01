@@ -48,7 +48,7 @@ def aoh_update(aoh, row, key, new_value)
 return aoh_update
 
 end 
-aoh_update(assembled_aoh, [1], [:name], JOELLE_VD)
+aoh_update(assembled_aoh, [1], [:name], "Nancy")
 
 
 
