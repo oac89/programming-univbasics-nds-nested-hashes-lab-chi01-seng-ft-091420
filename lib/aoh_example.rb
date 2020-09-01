@@ -48,7 +48,7 @@ def aoh_update(aoh, row, key, new_value)
     return aoh_update
 
 end 
-p aoh_update
+aoh_update
 
 
   # Update the AoH data at row and key to have the value of new_value
