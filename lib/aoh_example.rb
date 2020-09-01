@@ -50,7 +50,6 @@ return aoh
 
 end 
 
-learn submit 
 
 
 
