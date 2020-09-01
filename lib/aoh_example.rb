@@ -40,12 +40,12 @@ def aoh_lookup(aoh, row, key)
   
 end
 
-def new_value(aoh, row, key, new_value)
+def aoh_update(aoh, row, key, new_value)
     
     
-  aoh_lookup[1][:name] = "Joelle van Dyne"
+  assembled_aoh[1][:name] = "Joelle van Dyne"
   
-return new_value
+return aoh_update
 
 end 
 
