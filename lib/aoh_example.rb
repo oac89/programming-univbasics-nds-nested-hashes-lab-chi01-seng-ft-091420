@@ -43,7 +43,7 @@ end
 def new_value(aoh, row, key, new_value)
     
     
-    aoh[row][key] = new_value
+  aoh_update[1][:name] = "Joelle van Dyne"
   
 return new_value
 
